@@ -1,0 +1,830 @@
+Test round 0====>
+Step 1. Initialize the original bit-stream, which is: 
+1001101000100011
+Step 2. Encoding and sending the message-frame to receiver, which is
+11001101000100011
+Error: the bit-stream is error with single bit, which is: 
+11001111000100011
+After modifing......, which is: 
+11001101000100011
+Now, it is correct after modifing
+CASE : 0 is CORRECT!
+Test round 1====>
+Step 1. Initialize the original bit-stream, which is: 
+1010110011111010
+Step 2. Encoding and sending the message-frame to receiver, which is
+01010110011111010
+Step 3. Receiving and decoding the data from sender, which is: 
+1010110011111010
+CASE : 1 is CORRECT!
+Test round 2====>
+Step 1. Initialize the original bit-stream, which is: 
+0001111001011101
+Step 2. Encoding and sending the message-frame to receiver, which is
+10001111001011101
+Step 3. Receiving and decoding the data from sender, which is: 
+0001111001011101
+CASE : 2 is CORRECT!
+Test round 3====>
+Step 1. Initialize the original bit-stream, which is: 
+0101110001000001
+Step 2. Encoding and sending the message-frame to receiver, which is
+00101110001000001
+Step 3. Receiving and decoding the data from sender, which is: 
+0101110001000001
+CASE : 3 is CORRECT!
+Test round 4====>
+Step 1. Initialize the original bit-stream, which is: 
+1110010101101101
+Step 2. Encoding and sending the message-frame to receiver, which is
+01110010101101101
+Step 3. Receiving and decoding the data from sender, which is: 
+1110010101101101
+CASE : 4 is CORRECT!
+Test round 5====>
+Step 1. Initialize the original bit-stream, which is: 
+1001110100001111
+Step 2. Encoding and sending the message-frame to receiver, which is
+11001110100001111
+Step 3. Receiving and decoding the data from sender, which is: 
+1001110100001111
+CASE : 5 is CORRECT!
+Test round 6====>
+Step 1. Initialize the original bit-stream, which is: 
+0000011010110101
+Step 2. Encoding and sending the message-frame to receiver, which is
+10000011010110101
+Step 3. Receiving and decoding the data from sender, which is: 
+0000011010110101
+CASE : 6 is CORRECT!
+Test round 7====>
+Step 1. Initialize the original bit-stream, which is: 
+0111010110101010
+Step 2. Encoding and sending the message-frame to receiver, which is
+10111010110101010
+Step 3. Receiving and decoding the data from sender, which is: 
+0111010110101010
+CASE : 7 is CORRECT!
+Test round 8====>
+Step 1. Initialize the original bit-stream, which is: 
+1011111100101100
+Step 2. Encoding and sending the message-frame to receiver, which is
+01011111100101100
+Step 3. Receiving and decoding the data from sender, which is: 
+1011111100101100
+CASE : 8 is CORRECT!
+Test round 9====>
+Step 1. Initialize the original bit-stream, which is: 
+0100001010010010
+Step 2. Encoding and sending the message-frame to receiver, which is
+10100001010010010
+Step 3. Receiving and decoding the data from sender, which is: 
+0100001010010010
+CASE : 9 is CORRECT!
+Test round 10====>
+Step 1. Initialize the original bit-stream, which is: 
+0100001000111111
+Step 2. Encoding and sending the message-frame to receiver, which is
+00100001000111111
+Error: the bit-stream is error with single bit, which is: 
+00100001001111111
+After modifing......, which is: 
+00100001000111111
+Now, it is correct after modifing
+CASE : 10 is CORRECT!
+Test round 11====>
+Step 1. Initialize the original bit-stream, which is: 
+0110010111110100
+Step 2. Encoding and sending the message-frame to receiver, which is
+10110010111110100
+Step 3. Receiving and decoding the data from sender, which is: 
+0110010111110100
+CASE : 11 is CORRECT!
+Test round 12====>
+Step 1. Initialize the original bit-stream, which is: 
+0000110000111110
+Step 2. Encoding and sending the message-frame to receiver, which is
+10000110000111110
+Step 3. Receiving and decoding the data from sender, which is: 
+0000110000111110
+CASE : 12 is CORRECT!
+Test round 13====>
+Step 1. Initialize the original bit-stream, which is: 
+1001111111011001
+Step 2. Encoding and sending the message-frame to receiver, which is
+11001111111011001
+Step 3. Receiving and decoding the data from sender, which is: 
+1001111111011001
+CASE : 13 is CORRECT!
+Test round 14====>
+Step 1. Initialize the original bit-stream, which is: 
+1010100110111110
+Step 2. Encoding and sending the message-frame to receiver, which is
+01010100110111110
+Step 3. Receiving and decoding the data from sender, which is: 
+1010100110111110
+CASE : 14 is CORRECT!
+Test round 15====>
+Step 1. Initialize the original bit-stream, which is: 
+1100100101111100
+Step 2. Encoding and sending the message-frame to receiver, which is
+11100100101111100
+Step 3. Receiving and decoding the data from sender, which is: 
+1100100101111100
+CASE : 15 is CORRECT!
+Test round 16====>
+Step 1. Initialize the original bit-stream, which is: 
+1101011110110101
+Step 2. Encoding and sending the message-frame to receiver, which is
+11101011110110101
+Step 3. Receiving and decoding the data from sender, which is: 
+1101011110110101
+CASE : 16 is CORRECT!
+Test round 17====>
+Step 1. Initialize the original bit-stream, which is: 
+1001101001011001
+Step 2. Encoding and sending the message-frame to receiver, which is
+01001101001011001
+Step 3. Receiving and decoding the data from sender, which is: 
+1001101001011001
+CASE : 17 is CORRECT!
+Test round 18====>
+Step 1. Initialize the original bit-stream, which is: 
+1110100100001110
+Step 2. Encoding and sending the message-frame to receiver, which is
+01110100100001110
+Step 3. Receiving and decoding the data from sender, which is: 
+1110100100001110
+CASE : 18 is CORRECT!
+Test round 19====>
+Step 1. Initialize the original bit-stream, which is: 
+1101100100110011
+Step 2. Encoding and sending the message-frame to receiver, which is
+11101100100110011
+Step 3. Receiving and decoding the data from sender, which is: 
+1101100100110011
+CASE : 19 is CORRECT!
+Test round 20====>
+Step 1. Initialize the original bit-stream, which is: 
+0010111010000101
+Step 2. Encoding and sending the message-frame to receiver, which is
+10010111010000101
+Error: the bit-stream is error with single bit, which is: 
+10011111010000101
+After modifing......, which is: 
+10010111010000101
+Now, it is correct after modifing
+CASE : 20 is CORRECT!
+Test round 21====>
+Step 1. Initialize the original bit-stream, which is: 
+1111110011111110
+Step 2. Encoding and sending the message-frame to receiver, which is
+11111110011111110
+Step 3. Receiving and decoding the data from sender, which is: 
+1111110011111110
+CASE : 21 is CORRECT!
+Test round 22====>
+Step 1. Initialize the original bit-stream, which is: 
+0111101111100001
+Step 2. Encoding and sending the message-frame to receiver, which is
+00111101111100001
+Step 3. Receiving and decoding the data from sender, which is: 
+0111101111100001
+CASE : 22 is CORRECT!
+Test round 23====>
+Step 1. Initialize the original bit-stream, which is: 
+1100000110000111
+Step 2. Encoding and sending the message-frame to receiver, which is
+11100000110000111
+Step 3. Receiving and decoding the data from sender, which is: 
+1100000110000111
+CASE : 23 is CORRECT!
+Test round 24====>
+Step 1. Initialize the original bit-stream, which is: 
+0001001001111011
+Step 2. Encoding and sending the message-frame to receiver, which is
+00001001001111011
+Step 3. Receiving and decoding the data from sender, which is: 
+0001001001111011
+CASE : 24 is CORRECT!
+Test round 25====>
+Step 1. Initialize the original bit-stream, which is: 
+0001100111011000
+Step 2. Encoding and sending the message-frame to receiver, which is
+10001100111011000
+Step 3. Receiving and decoding the data from sender, which is: 
+0001100111011000
+CASE : 25 is CORRECT!
+Test round 26====>
+Step 1. Initialize the original bit-stream, which is: 
+1011010110001111
+Step 2. Encoding and sending the message-frame to receiver, which is
+01011010110001111
+Step 3. Receiving and decoding the data from sender, which is: 
+1011010110001111
+CASE : 26 is CORRECT!
+Test round 27====>
+Step 1. Initialize the original bit-stream, which is: 
+1101010001010001
+Step 2. Encoding and sending the message-frame to receiver, which is
+11101010001010001
+Step 3. Receiving and decoding the data from sender, which is: 
+1101010001010001
+CASE : 27 is CORRECT!
+Test round 28====>
+Step 1. Initialize the original bit-stream, which is: 
+1010110011100001
+Step 2. Encoding and sending the message-frame to receiver, which is
+01010110011100001
+Step 3. Receiving and decoding the data from sender, which is: 
+1010110011100001
+CASE : 28 is CORRECT!
+Test round 29====>
+Step 1. Initialize the original bit-stream, which is: 
+1111101001001011
+Step 2. Encoding and sending the message-frame to receiver, which is
+01111101001001011
+Step 3. Receiving and decoding the data from sender, which is: 
+1111101001001011
+CASE : 29 is CORRECT!
+Test round 30====>
+Step 1. Initialize the original bit-stream, which is: 
+1010010111100000
+Step 2. Encoding and sending the message-frame to receiver, which is
+11010010111100000
+Error: the bit-stream is error with single bit, which is: 
+11010011111100000
+After modifing......, which is: 
+11010010111100000
+Now, it is correct after modifing
+CASE : 30 is CORRECT!
+Test round 31====>
+Step 1. Initialize the original bit-stream, which is: 
+0100010100010101
+Step 2. Encoding and sending the message-frame to receiver, which is
+00100010100010101
+Step 3. Receiving and decoding the data from sender, which is: 
+0100010100010101
+CASE : 31 is CORRECT!
+Test round 32====>
+Step 1. Initialize the original bit-stream, which is: 
+1110101100000110
+Step 2. Encoding and sending the message-frame to receiver, which is
+01110101100000110
+Step 3. Receiving and decoding the data from sender, which is: 
+1110101100000110
+CASE : 32 is CORRECT!
+Test round 33====>
+Step 1. Initialize the original bit-stream, which is: 
+1011100010111000
+Step 2. Encoding and sending the message-frame to receiver, which is
+01011100010111000
+Step 3. Receiving and decoding the data from sender, which is: 
+1011100010111000
+CASE : 33 is CORRECT!
+Test round 34====>
+Step 1. Initialize the original bit-stream, which is: 
+0101011000100010
+Step 2. Encoding and sending the message-frame to receiver, which is
+00101011000100010
+Step 3. Receiving and decoding the data from sender, which is: 
+0101011000100010
+CASE : 34 is CORRECT!
+Test round 35====>
+Step 1. Initialize the original bit-stream, which is: 
+1111000011010010
+Step 2. Encoding and sending the message-frame to receiver, which is
+01111000011010010
+Step 3. Receiving and decoding the data from sender, which is: 
+1111000011010010
+CASE : 35 is CORRECT!
+Test round 36====>
+Step 1. Initialize the original bit-stream, which is: 
+0110100110101100
+Step 2. Encoding and sending the message-frame to receiver, which is
+00110100110101100
+Step 3. Receiving and decoding the data from sender, which is: 
+0110100110101100
+CASE : 36 is CORRECT!
+Test round 37====>
+Step 1. Initialize the original bit-stream, which is: 
+0110000010110010
+Step 2. Encoding and sending the message-frame to receiver, which is
+00110000010110010
+Step 3. Receiving and decoding the data from sender, which is: 
+0110000010110010
+CASE : 37 is CORRECT!
+Test round 38====>
+Step 1. Initialize the original bit-stream, which is: 
+0100000111100100
+Step 2. Encoding and sending the message-frame to receiver, which is
+00100000111100100
+Step 3. Receiving and decoding the data from sender, which is: 
+0100000111100100
+CASE : 38 is CORRECT!
+Test round 39====>
+Step 1. Initialize the original bit-stream, which is: 
+1111000110100001
+Step 2. Encoding and sending the message-frame to receiver, which is
+01111000110100001
+Step 3. Receiving and decoding the data from sender, which is: 
+1111000110100001
+CASE : 39 is CORRECT!
+Test round 40====>
+Step 1. Initialize the original bit-stream, which is: 
+0101111000111111
+Step 2. Encoding and sending the message-frame to receiver, which is
+10101111000111111
+Error: the bit-stream is error with single bit, which is: 
+10101111000011111
+After modifing......, which is: 
+10101111000111111
+Now, it is correct after modifing
+CASE : 40 is CORRECT!
+Test round 41====>
+Step 1. Initialize the original bit-stream, which is: 
+1101100011000110
+Step 2. Encoding and sending the message-frame to receiver, which is
+01101100011000110
+Step 3. Receiving and decoding the data from sender, which is: 
+1101100011000110
+CASE : 41 is CORRECT!
+Test round 42====>
+Step 1. Initialize the original bit-stream, which is: 
+0001100001100010
+Step 2. Encoding and sending the message-frame to receiver, which is
+10001100001100010
+Step 3. Receiving and decoding the data from sender, which is: 
+0001100001100010
+CASE : 42 is CORRECT!
+Test round 43====>
+Step 1. Initialize the original bit-stream, which is: 
+1011010111011010
+Step 2. Encoding and sending the message-frame to receiver, which is
+01011010111011010
+Step 3. Receiving and decoding the data from sender, which is: 
+1011010111011010
+CASE : 43 is CORRECT!
+Test round 44====>
+Step 1. Initialize the original bit-stream, which is: 
+1110101101011111
+Step 2. Encoding and sending the message-frame to receiver, which is
+01110101101011111
+Step 3. Receiving and decoding the data from sender, which is: 
+1110101101011111
+CASE : 44 is CORRECT!
+Test round 45====>
+Step 1. Initialize the original bit-stream, which is: 
+0001110001010100
+Step 2. Encoding and sending the message-frame to receiver, which is
+00001110001010100
+Step 3. Receiving and decoding the data from sender, which is: 
+0001110001010100
+CASE : 45 is CORRECT!
+Test round 46====>
+Step 1. Initialize the original bit-stream, which is: 
+0000010100000001
+Step 2. Encoding and sending the message-frame to receiver, which is
+10000010100000001
+Step 3. Receiving and decoding the data from sender, which is: 
+0000010100000001
+CASE : 46 is CORRECT!
+Test round 47====>
+Step 1. Initialize the original bit-stream, which is: 
+0010101011110001
+Step 2. Encoding and sending the message-frame to receiver, which is
+00010101011110001
+Step 3. Receiving and decoding the data from sender, which is: 
+0010101011110001
+CASE : 47 is CORRECT!
+Test round 48====>
+Step 1. Initialize the original bit-stream, which is: 
+1010011101011101
+Step 2. Encoding and sending the message-frame to receiver, which is
+01010011101011101
+Step 3. Receiving and decoding the data from sender, which is: 
+1010011101011101
+CASE : 48 is CORRECT!
+Test round 49====>
+Step 1. Initialize the original bit-stream, which is: 
+0101101111110001
+Step 2. Encoding and sending the message-frame to receiver, which is
+00101101111110001
+Step 3. Receiving and decoding the data from sender, which is: 
+0101101111110001
+CASE : 49 is CORRECT!
+Test round 50====>
+Step 1. Initialize the original bit-stream, which is: 
+0101010111001011
+Step 2. Encoding and sending the message-frame to receiver, which is
+10101010111001011
+Error: the bit-stream is error with single bit, which is: 
+10101010111101011
+After modifing......, which is: 
+10101010111001011
+Now, it is correct after modifing
+CASE : 50 is CORRECT!
+Test round 51====>
+Step 1. Initialize the original bit-stream, which is: 
+1101001001111110
+Step 2. Encoding and sending the message-frame to receiver, which is
+01101001001111110
+Step 3. Receiving and decoding the data from sender, which is: 
+1101001001111110
+CASE : 51 is CORRECT!
+Test round 52====>
+Step 1. Initialize the original bit-stream, which is: 
+0000010111110011
+Step 2. Encoding and sending the message-frame to receiver, which is
+00000010111110011
+Step 3. Receiving and decoding the data from sender, which is: 
+0000010111110011
+CASE : 52 is CORRECT!
+Test round 53====>
+Step 1. Initialize the original bit-stream, which is: 
+0111101001011011
+Step 2. Encoding and sending the message-frame to receiver, which is
+00111101001011011
+Step 3. Receiving and decoding the data from sender, which is: 
+0111101001011011
+CASE : 53 is CORRECT!
+Test round 54====>
+Step 1. Initialize the original bit-stream, which is: 
+0110100011100111
+Step 2. Encoding and sending the message-frame to receiver, which is
+10110100011100111
+Step 3. Receiving and decoding the data from sender, which is: 
+0110100011100111
+CASE : 54 is CORRECT!
+Test round 55====>
+Step 1. Initialize the original bit-stream, which is: 
+0000010100111011
+Step 2. Encoding and sending the message-frame to receiver, which is
+10000010100111011
+Step 3. Receiving and decoding the data from sender, which is: 
+0000010100111011
+CASE : 55 is CORRECT!
+Test round 56====>
+Step 1. Initialize the original bit-stream, which is: 
+0101000011010011
+Step 2. Encoding and sending the message-frame to receiver, which is
+10101000011010011
+Step 3. Receiving and decoding the data from sender, which is: 
+0101000011010011
+CASE : 56 is CORRECT!
+Test round 57====>
+Step 1. Initialize the original bit-stream, which is: 
+0010000110100110
+Step 2. Encoding and sending the message-frame to receiver, which is
+00010000110100110
+Step 3. Receiving and decoding the data from sender, which is: 
+0010000110100110
+CASE : 57 is CORRECT!
+Test round 58====>
+Step 1. Initialize the original bit-stream, which is: 
+0011010110011110
+Step 2. Encoding and sending the message-frame to receiver, which is
+10011010110011110
+Step 3. Receiving and decoding the data from sender, which is: 
+0011010110011110
+CASE : 58 is CORRECT!
+Test round 59====>
+Step 1. Initialize the original bit-stream, which is: 
+0010101101011110
+Step 2. Encoding and sending the message-frame to receiver, which is
+10010101101011110
+Step 3. Receiving and decoding the data from sender, which is: 
+0010101101011110
+CASE : 59 is CORRECT!
+Test round 60====>
+Step 1. Initialize the original bit-stream, which is: 
+0111100111101001
+Step 2. Encoding and sending the message-frame to receiver, which is
+00111100111101001
+Error: the bit-stream is error with single bit, which is: 
+00111110111101001
+After modifing......, which is: 
+00111100111101001
+Now, it is correct after modifing
+CASE : 60 is CORRECT!
+Test round 61====>
+Step 1. Initialize the original bit-stream, which is: 
+1100101000111111
+Step 2. Encoding and sending the message-frame to receiver, which is
+01100101000111111
+Step 3. Receiving and decoding the data from sender, which is: 
+1100101000111111
+CASE : 61 is CORRECT!
+Test round 62====>
+Step 1. Initialize the original bit-stream, which is: 
+1101100101001111
+Step 2. Encoding and sending the message-frame to receiver, which is
+01101100101001111
+Step 3. Receiving and decoding the data from sender, which is: 
+1101100101001111
+CASE : 62 is CORRECT!
+Test round 63====>
+Step 1. Initialize the original bit-stream, which is: 
+1100111101000000
+Step 2. Encoding and sending the message-frame to receiver, which is
+11100111101000000
+Step 3. Receiving and decoding the data from sender, which is: 
+1100111101000000
+CASE : 63 is CORRECT!
+Test round 64====>
+Step 1. Initialize the original bit-stream, which is: 
+1011000111011010
+Step 2. Encoding and sending the message-frame to receiver, which is
+11011000111011010
+Step 3. Receiving and decoding the data from sender, which is: 
+1011000111011010
+CASE : 64 is CORRECT!
+Test round 65====>
+Step 1. Initialize the original bit-stream, which is: 
+1000110100011000
+Step 2. Encoding and sending the message-frame to receiver, which is
+01000110100011000
+Step 3. Receiving and decoding the data from sender, which is: 
+1000110100011000
+CASE : 65 is CORRECT!
+Test round 66====>
+Step 1. Initialize the original bit-stream, which is: 
+1111011111111011
+Step 2. Encoding and sending the message-frame to receiver, which is
+01111011111111011
+Step 3. Receiving and decoding the data from sender, which is: 
+1111011111111011
+CASE : 66 is CORRECT!
+Test round 67====>
+Step 1. Initialize the original bit-stream, which is: 
+0101001100110000
+Step 2. Encoding and sending the message-frame to receiver, which is
+00101001100110000
+Step 3. Receiving and decoding the data from sender, which is: 
+0101001100110000
+CASE : 67 is CORRECT!
+Test round 68====>
+Step 1. Initialize the original bit-stream, which is: 
+0110100111000100
+Step 2. Encoding and sending the message-frame to receiver, which is
+10110100111000100
+Step 3. Receiving and decoding the data from sender, which is: 
+0110100111000100
+CASE : 68 is CORRECT!
+Test round 69====>
+Step 1. Initialize the original bit-stream, which is: 
+1010101101010101
+Step 2. Encoding and sending the message-frame to receiver, which is
+11010101101010101
+Step 3. Receiving and decoding the data from sender, which is: 
+1010101101010101
+CASE : 69 is CORRECT!
+Test round 70====>
+Step 1. Initialize the original bit-stream, which is: 
+0000001001011001
+Step 2. Encoding and sending the message-frame to receiver, which is
+10000001001011001
+Error: the bit-stream is error with single bit, which is: 
+10000001000011001
+After modifing......, which is: 
+10000001001011001
+Now, it is correct after modifing
+CASE : 70 is CORRECT!
+Test round 71====>
+Step 1. Initialize the original bit-stream, which is: 
+1101011111110111
+Step 2. Encoding and sending the message-frame to receiver, which is
+11101011111110111
+Step 3. Receiving and decoding the data from sender, which is: 
+1101011111110111
+CASE : 71 is CORRECT!
+Test round 72====>
+Step 1. Initialize the original bit-stream, which is: 
+0101011001000001
+Step 2. Encoding and sending the message-frame to receiver, which is
+00101011001000001
+Step 3. Receiving and decoding the data from sender, which is: 
+0101011001000001
+CASE : 72 is CORRECT!
+Test round 73====>
+Step 1. Initialize the original bit-stream, which is: 
+1011100011110110
+Step 2. Encoding and sending the message-frame to receiver, which is
+01011100011110110
+Step 3. Receiving and decoding the data from sender, which is: 
+1011100011110110
+CASE : 73 is CORRECT!
+Test round 74====>
+Step 1. Initialize the original bit-stream, which is: 
+1001001101000101
+Step 2. Encoding and sending the message-frame to receiver, which is
+11001001101000101
+Step 3. Receiving and decoding the data from sender, which is: 
+1001001101000101
+CASE : 74 is CORRECT!
+Test round 75====>
+Step 1. Initialize the original bit-stream, which is: 
+1000111010111101
+Step 2. Encoding and sending the message-frame to receiver, which is
+01000111010111101
+Step 3. Receiving and decoding the data from sender, which is: 
+1000111010111101
+CASE : 75 is CORRECT!
+Test round 76====>
+Step 1. Initialize the original bit-stream, which is: 
+1010110010101000
+Step 2. Encoding and sending the message-frame to receiver, which is
+11010110010101000
+Step 3. Receiving and decoding the data from sender, which is: 
+1010110010101000
+CASE : 76 is CORRECT!
+Test round 77====>
+Step 1. Initialize the original bit-stream, which is: 
+0011110111011110
+Step 2. Encoding and sending the message-frame to receiver, which is
+10011110111011110
+Step 3. Receiving and decoding the data from sender, which is: 
+0011110111011110
+CASE : 77 is CORRECT!
+Test round 78====>
+Step 1. Initialize the original bit-stream, which is: 
+1010010011001011
+Step 2. Encoding and sending the message-frame to receiver, which is
+01010010011001011
+Step 3. Receiving and decoding the data from sender, which is: 
+1010010011001011
+CASE : 78 is CORRECT!
+Test round 79====>
+Step 1. Initialize the original bit-stream, which is: 
+0000000111011011
+Step 2. Encoding and sending the message-frame to receiver, which is
+10000000111011011
+Step 3. Receiving and decoding the data from sender, which is: 
+0000000111011011
+CASE : 79 is CORRECT!
+Test round 80====>
+Step 1. Initialize the original bit-stream, which is: 
+0101010000000000
+Step 2. Encoding and sending the message-frame to receiver, which is
+10101010000000000
+Error: the bit-stream is error with single bit, which is: 
+10001010000000000
+After modifing......, which is: 
+10101010000000000
+Now, it is correct after modifing
+CASE : 80 is CORRECT!
+Test round 81====>
+Step 1. Initialize the original bit-stream, which is: 
+0010011101100010
+Step 2. Encoding and sending the message-frame to receiver, which is
+10010011101100010
+Step 3. Receiving and decoding the data from sender, which is: 
+0010011101100010
+CASE : 81 is CORRECT!
+Test round 82====>
+Step 1. Initialize the original bit-stream, which is: 
+0100011010111111
+Step 2. Encoding and sending the message-frame to receiver, which is
+00100011010111111
+Step 3. Receiving and decoding the data from sender, which is: 
+0100011010111111
+CASE : 82 is CORRECT!
+Test round 83====>
+Step 1. Initialize the original bit-stream, which is: 
+0111010011110011
+Step 2. Encoding and sending the message-frame to receiver, which is
+00111010011110011
+Step 3. Receiving and decoding the data from sender, which is: 
+0111010011110011
+CASE : 83 is CORRECT!
+Test round 84====>
+Step 1. Initialize the original bit-stream, which is: 
+0111111001011001
+Step 2. Encoding and sending the message-frame to receiver, which is
+00111111001011001
+Step 3. Receiving and decoding the data from sender, which is: 
+0111111001011001
+CASE : 84 is CORRECT!
+Test round 85====>
+Step 1. Initialize the original bit-stream, which is: 
+0010111111111111
+Step 2. Encoding and sending the message-frame to receiver, which is
+10010111111111111
+Step 3. Receiving and decoding the data from sender, which is: 
+0010111111111111
+CASE : 85 is CORRECT!
+Test round 86====>
+Step 1. Initialize the original bit-stream, which is: 
+0111110100000000
+Step 2. Encoding and sending the message-frame to receiver, which is
+00111110100000000
+Step 3. Receiving and decoding the data from sender, which is: 
+0111110100000000
+CASE : 86 is CORRECT!
+Test round 87====>
+Step 1. Initialize the original bit-stream, which is: 
+1000111100011101
+Step 2. Encoding and sending the message-frame to receiver, which is
+11000111100011101
+Step 3. Receiving and decoding the data from sender, which is: 
+1000111100011101
+CASE : 87 is CORRECT!
+Test round 88====>
+Step 1. Initialize the original bit-stream, which is: 
+0001100110110101
+Step 2. Encoding and sending the message-frame to receiver, which is
+00001100110110101
+Step 3. Receiving and decoding the data from sender, which is: 
+0001100110110101
+CASE : 88 is CORRECT!
+Test round 89====>
+Step 1. Initialize the original bit-stream, which is: 
+1111111100100100
+Step 2. Encoding and sending the message-frame to receiver, which is
+01111111100100100
+Step 3. Receiving and decoding the data from sender, which is: 
+1111111100100100
+CASE : 89 is CORRECT!
+Test round 90====>
+Step 1. Initialize the original bit-stream, which is: 
+1100111010110001
+Step 2. Encoding and sending the message-frame to receiver, which is
+11100111010110001
+Error: the bit-stream is error with single bit, which is: 
+10100111010110001
+After modifing......, which is: 
+11100111010110001
+Now, it is correct after modifing
+CASE : 90 is CORRECT!
+Test round 91====>
+Step 1. Initialize the original bit-stream, which is: 
+0111010100000110
+Step 2. Encoding and sending the message-frame to receiver, which is
+10111010100000110
+Step 3. Receiving and decoding the data from sender, which is: 
+0111010100000110
+CASE : 91 is CORRECT!
+Test round 92====>
+Step 1. Initialize the original bit-stream, which is: 
+1001101001000011
+Step 2. Encoding and sending the message-frame to receiver, which is
+11001101001000011
+Step 3. Receiving and decoding the data from sender, which is: 
+1001101001000011
+CASE : 92 is CORRECT!
+Test round 93====>
+Step 1. Initialize the original bit-stream, which is: 
+0001001111100010
+Step 2. Encoding and sending the message-frame to receiver, which is
+10001001111100010
+Step 3. Receiving and decoding the data from sender, which is: 
+0001001111100010
+CASE : 93 is CORRECT!
+Test round 94====>
+Step 1. Initialize the original bit-stream, which is: 
+1101010000100000
+Step 2. Encoding and sending the message-frame to receiver, which is
+11101010000100000
+Step 3. Receiving and decoding the data from sender, which is: 
+1101010000100000
+CASE : 94 is CORRECT!
+Test round 95====>
+Step 1. Initialize the original bit-stream, which is: 
+0000100100011111
+Step 2. Encoding and sending the message-frame to receiver, which is
+10000100100011111
+Step 3. Receiving and decoding the data from sender, which is: 
+0000100100011111
+CASE : 95 is CORRECT!
+Test round 96====>
+Step 1. Initialize the original bit-stream, which is: 
+0100010111011010
+Step 2. Encoding and sending the message-frame to receiver, which is
+00100010111011010
+Step 3. Receiving and decoding the data from sender, which is: 
+0100010111011010
+CASE : 96 is CORRECT!
+Test round 97====>
+Step 1. Initialize the original bit-stream, which is: 
+1000010100010110
+Step 2. Encoding and sending the message-frame to receiver, which is
+01000010100010110
+Step 3. Receiving and decoding the data from sender, which is: 
+1000010100010110
+CASE : 97 is CORRECT!
+Test round 98====>
+Step 1. Initialize the original bit-stream, which is: 
+0010110110001011
+Step 2. Encoding and sending the message-frame to receiver, which is
+00010110110001011
+Step 3. Receiving and decoding the data from sender, which is: 
+0010110110001011
+CASE : 98 is CORRECT!
+Test round 99====>
+Step 1. Initialize the original bit-stream, which is: 
+0111100001110001
+Step 2. Encoding and sending the message-frame to receiver, which is
+00111100001110001
+Step 3. Receiving and decoding the data from sender, which is: 
+0111100001110001
+CASE : 99 is CORRECT!
